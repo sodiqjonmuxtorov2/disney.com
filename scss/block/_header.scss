@@ -1,0 +1,35 @@
+.header_item{
+    font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+color: #f9f9f9;
+}
+.header_item1{
+    border-bottom: 5px solid #f9f9f9;
+width: 101px;
+height: 40px;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+color: #f9f9f9;
+}
+.header_list{
+    display: flex;
+    gap: 12px;
+
+    
+}
+.header_connect{
+    max-width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+.header_img{
+    max-width: 1278px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 23px;
+}

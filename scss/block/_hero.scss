@@ -1,0 +1,137 @@
+.hero {
+    margin-top: 170px;
+}
+.hero_title {
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 126%;
+    text-align: center;
+    color: #f9f9f9;
+}
+.hero_text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #c0c0c0;
+    padding: 30px;
+}
+.hero_button {
+    max-width: 290px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px solid #2b2d37;
+    border-radius: 21px;
+    padding: 5px 20px 5px 1px;
+    width: 235px;
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero_block_text {
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187%;
+    text-align: center;
+    color: #f9f9f9;
+}
+.hero_btn {
+    border-radius: 19px;
+    padding: 4px 39px 4px 39px;
+    width: 145px;
+    height: 38px;
+    background-color: #0063e5;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187%;
+    text-align: center;
+    color: #f9f9f9;
+}
+.hero_connect {
+    border: 1px solid #c0c0c0;
+    width: 380px;
+    height: 500px;
+}
+.hero_content {
+    width: 300px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hero_title_p {
+    font-weight: 800;
+    font-size: 27px;
+    line-height: 141%;
+    color: #f9f9f9;
+    padding-top: 27px;
+}
+.hero_sp {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+}
+.hero_block_connect {
+    display: flex;
+    gap: 5px;
+    padding-top: 16px;
+}
+.hero_disney_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    color: #c0c0c0;
+}
+.hero_disney_img {
+    padding-bottom: 24px;
+}
+.hero_block_content_text {
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 136%;
+    color: #f9f9f9;
+    margin-top: 124px;
+}
+.hero_block_content_text2{
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 136%;
+    color: #f9f9f9;
+    margin-top: 54px;
+}
+.hero_block_content_text3{
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 136%;
+    color: #f9f9f9;
+}
+.hero_block_content_sp {
+    font-weight: 400;
+    font-size: 16px;
+    color: #c0c0c0;
+}
+.hero_link{
+padding: 18px 110px;
+    font-weight: 500;
+font-size: 18px;
+line-height: 100%;
+text-transform: uppercase;
+text-align: center;
+color: #f9f9f9;
+background-color: #0063e5;
+margin-top: 16px;
+border-radius: 4px;
+
+}
+.block_hero{
+    width: 1278px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    gap: 24px;
+    margin-top: 27px;
+}
